@@ -7,4 +7,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextNewsStyle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/text_size_4x</item>
+    </style>
+
 </resources>
